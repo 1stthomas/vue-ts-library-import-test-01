@@ -1,7 +1,7 @@
 # Import of a simple test component
 
 How to run:
-```Shell
+```console
 $ npm install
 $ npm run dev
 ```
